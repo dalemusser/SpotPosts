@@ -1,13 +1,5 @@
 ## Spot Posts - University of Missouri - Dale Musser
 
-### 47. Developing an augmented reality (AR) app for iOS.<br />
-September 15, 2021<br />
-<https://www.linkedin.com/posts/dalemusser_developing-an-augmented-reality-ar-app-activity-6840416848769638400-h4ot>
-
-### 46. Working on an upcoming assignment for iOS App Dev 1. (AR)<br />
-September 3, 2021<br />
-<https://www.linkedin.com/posts/dalemusser_working-on-an-upcoming-assignment-for-ios-activity-6839412317856387072-kkqD>
-
 ### 45. eStop endpoint functioning in iOS Swift app for Spot.<br />
 August 29, 2021<br />
 <https://www.linkedin.com/posts/dalemusser_estop-endpoint-functioning-in-ios-swift-app-activity-6837811388744912896-zC09>
