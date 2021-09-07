@@ -1,4 +1,4 @@
-# Spot Posts
+## Spot Posts - University of Missouri - Dale Musser
 
 ### 47. Developing an augmented reality (AR) app for iOS.<br />
 September 15, 2021<br />
