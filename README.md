@@ -1,0 +1,2 @@
+# SpotPosts
+Posts about Spot
