@@ -1,4 +1,4 @@
-## Spot Posts - University of Missouri - Dale Musser
+Presentation - Spot - University of Missouri - Dale Musser
 
 
 ### 43. Mizzou advertisement featuring Spot. :)<br />
